@@ -1,0 +1,14 @@
+body{
+    background-color:antiquewhite;
+}
+
+.titulo{
+    text-align: center;
+   color: plum;
+
+}
+
+img{
+    width: 12%;
+    image-orientation: center;
+}
